@@ -15,11 +15,16 @@
 <img src="./public/images/punto-3.png" alt="punto 3">
 
 <h2>Punto 4: Titulos</h2>
+<img src="./public/images/punto-4.png" alt="punto 3">
 
 <h2>Punto 5: Párrafo</h2>
+<img src="./public/images/punto-5.png" alt="punto 3">
 
 <h2>Punto 6: Links</h2>
+<img src="./public/images/punto-6.png" alt="punto 3">
 
 <h2>Punto 7 y 8: Navegación</h2>
+<img src="./public/images/punto-7-8.png" alt="punto 3">
 
 <h2>Punto 9: Tabla</h2>
+<img src="./public/images/punto-9.png" alt="punto 3">
