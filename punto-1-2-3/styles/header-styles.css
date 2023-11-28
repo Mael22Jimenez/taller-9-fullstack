@@ -1,7 +1,7 @@
 header{
     display: flex;
     justify-content: space-between;
-    margin: 10px 100px;
+    margin: 0px 100px;
 }
 
 .header__navegator{
@@ -24,7 +24,7 @@ nav a{
 .header__settings{
     display: flex;
     align-items: center;
-    gap:60px;
+    gap:70px;
 }
 
 .language{

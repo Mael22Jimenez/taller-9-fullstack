@@ -1,17 +1,20 @@
 #banner{
     display: flex;
-    margin: 30px 100px;
-    padding: 80px;
-    background: linear-gradient(313deg, #EE9AB5 3.28%, #5961F9 97.04%);
-    border-radius: 40px 40px 300px 48px;
+    margin: 25px 100px;
+    padding: 90px 80px;
+    background: linear-gradient(313.18deg, #EE9AB5 3.28%, #5961F9 97.04%);
+    border-radius: 48px 48px 300px 48px;
+    color: white
 }
 
 h1{
+    margin: 0px;
     font-family: "Jost";
+    font-size: 50px;
+    line-height: 70px;
+    letter-spacing: -0.64px;
+    font-weight: 600;
     color: white;
-    font-size: 55px;
-    line-height: 124%;
-    letter-spacing: -1%;
 }
 
 #banner img{
@@ -19,8 +22,10 @@ h1{
     height: 300px;
 }
 
-.banner__text p{
-    font-family: "Jost";
+.button--transparent{
+    padding: 12px 35px;
+    background: transparent;
     color: white;
-    font-size:14px;
+    border: 1px solid white;
+    margin-left: 20px;
 }

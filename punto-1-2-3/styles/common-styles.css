@@ -1,3 +1,8 @@
+body{
+    margin: 0px;
+}
+
+
 a{
     font-family: "Jost";
 }
@@ -9,3 +14,25 @@ button{
     border-radius: 10px;
     cursor: pointer;
 }
+
+p {
+    font-family: "Jost";
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.button--orange{
+    margin-right: 10px;
+    background: #FD909E;
+    color: white;
+    border: none;
+}
+h2{
+    font-family: "Jost";
+    font-size: 45px;
+    color: #010851;
+    line-height: 124%;
+    letter-spacing: -1%;
+    margin:0;
+}
+
