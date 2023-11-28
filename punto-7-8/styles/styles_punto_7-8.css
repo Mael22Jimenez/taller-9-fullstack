@@ -1,0 +1,30 @@
+header{
+    margin: 70px 70px;
+    display: flex;
+    background-color: rgb(221, 189, 221);
+    padding: 15px;
+    align-items: center;
+    margin-right: 600px;
+    font-family: 'Times New Roman';
+    height: 30px;
+    gap: 10px;
+}
+
+ul{
+    display: flex;
+    gap: 25px;
+    font-size: 15px;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+button{
+    font-family: 'Times New Roman';
+    color:white;
+    background-color: blue;
+    border: none;
+    width: 12%;
+    height: 40px;
+    font-size: 15px;
+}
