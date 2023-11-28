@@ -1,0 +1,28 @@
+
+body {
+    font-family: 'Times New Roman';
+   }
+   
+   table {
+    border-collapse: collapse;
+    width: 80%;
+   }
+   
+   th, td {
+    border: 1px dotted black;
+    text-align: left;
+    padding: 5px;
+   }
+   
+   th {
+    background-color: yellow;
+    color: red;
+   }
+   
+   tr{
+    background-color: yellow;
+   }
+
+
+   
+
