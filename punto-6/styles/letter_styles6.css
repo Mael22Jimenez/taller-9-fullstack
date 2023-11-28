@@ -1,0 +1,22 @@
+h1{
+    margin: 100px 400px;
+}
+
+div{
+    font-size: 20px;
+    
+}
+
+.yellow{
+    color: yellow;
+    text-decoration: underline;
+    margin: 100px 400px;
+    
+}
+
+.purple{
+    color:purple;
+    text-decoration: underline;
+    margin: 100px 400px;
+    
+}
