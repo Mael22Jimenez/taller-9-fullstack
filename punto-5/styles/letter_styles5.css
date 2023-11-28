@@ -1,0 +1,38 @@
+p{
+    margin: 100px 400px;
+    text-align: justify;
+    color:black;
+    line-height: 30px;
+}
+
+.green{
+    color: green;
+    text-decoration: underline;
+}
+
+.red{
+    color:red;
+    font-weight: bold;
+}
+
+.format{
+    text-decoration:underline overline;
+}
+
+.plus{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.blue{
+   font-size: 18px;
+   font-weight: bold;
+    color:blue;
+}
+
+.red_format{
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: underline;
+    color:red;
+}
