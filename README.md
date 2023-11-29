@@ -4,10 +4,10 @@
 <p>Curso: Full Stack Basico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p>
 <h2>Link de la pagina web</h2>
-<a> href="https://mael22jimenez.github.io/taller-9-fullstack/">Link pagina</a>
+<a href="https://mael22jimenez.github.io/taller-9-fullstack/">Link pagina</a>
 
 <h2>Punto 1: Link de figma</h2>
-<a> href="https://www.figma.com/file/sv94odnY6pKPwygx6GF5KO/Manuel-Andres-Jimenez-Rodas?type=design&node-id=0%3A1&mode=design&t=IyMShtKm6rIYI28A-1">Link de Figma</a>
+<a href="https://www.figma.com/file/sv94odnY6pKPwygx6GF5KO/Manuel-Andres-Jimenez-Rodas?type=design&node-id=0%3A1&mode=design&t=IyMShtKm6rIYI28A-1">Link de Figma</a>
 
 <h2>Punto 2: Diseño en HTML</h2>
 <img src="./public/images/punto-2.png" alt="punto 2">
